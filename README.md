@@ -1,4 +1,4 @@
-![mindrevolution](res/logo_go-for-mindrevolution.png)
+![mindrevolution](readme.md.res/logo_go-for-mindrevolution.png)
 
 # Contour Useragent Fieldtype
 
