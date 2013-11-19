@@ -1,7 +1,6 @@
-<div style="text-align:right;">
 ![mindrevolution](res/logo_go-for-mindrevolution.png)
-</div>
-<p style="font-size:4em;margin-top:100px;border-bottom:4px solid silver;">Contour Useragent Fieldtype</p>
+
+# Contour Useragent Fieldtype
 
 **With this simple Contour field type you can add the current request's useragent string to the form results. If you need to know what browser was used when sending i.e. a feedback or problem report form.**  
 
